@@ -1,5 +1,5 @@
 {
-    "name": "lmamsdev/json-response-two",
+    "name": "lmamsdev/json-response-three",
     "description": "a simple class that returns a properly formatted json response with HTTP status",
     "keywords": ["Json", "Response", "API Response Class", "PHP"],
     "license": "MIT",
