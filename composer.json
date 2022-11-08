@@ -5,8 +5,8 @@
     "license": "MIT",
     "type": "library",
     "authors": [{
-        "name": "Lin Designer",
-        "email": "lindesigner@gmail.com"
+        "name": "LM AmsDev",
+        "email": "ams.acdev@gmail.com"
     }],
     "require": {
         "php": ">=5.3.0"
